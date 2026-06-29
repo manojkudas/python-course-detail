@@ -21,11 +21,6 @@
 19. Python runs on Windows, Linux, and macOS.
 20. Python remains one of the most popular languages worldwide.
 
-
-- Installing Python & IDE setup
-
-	Here’s a clear, step‑by‑step guide you can include in your course repo for **Installing Python & IDE Setup**. This will help learners get started smoothly:
-
 ---
 
 # 🛠 Installing Python & IDE Setup
